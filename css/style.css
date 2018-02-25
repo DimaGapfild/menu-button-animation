@@ -40,16 +40,16 @@ button{
 body.action .navicon:after, body.action .navicon:before{
 	height: .2rem;
 	width:1.5rem;
-	left: -.2rem;
+	left: -.25rem;
 }
 body.action .navicon {
 	height: .2rem;
 }
 body.action .navicon:after{
 	transform: rotate3d(0, 0, 1, 45deg);
-	bottom: -.45rem;
+	bottom: -.46rem;
 }
 body.action .navicon:before{
 	transform: rotate3d(0, 0, 1, -45deg);
-	top: -.45rem;
+	top: -.46rem;
 }
