@@ -1,0 +1,14 @@
+{
+  "name": "Menu button animation",
+  "version": "1.0.0",
+  "description": "playing around with menu button animation",
+  "main": "index.html",
+  "scripts": {
+    "server-start": "node .\\node_modules\\http-server\\bin\\http-server -p 3300"
+  },
+  "author": "Dima K",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
